@@ -13,21 +13,18 @@ TERMS AND CONDITIONS
    a. You may NOT redistribute, sublicense, sell, lease, or otherwise
       transfer the Software or any portion thereof to any third party.
    b. You may NOT reverse-engineer, decompile, disassemble, or otherwise
-      attempt to derive the source code, algorithms, scoring logic, or
-      configuration data of the Software.
-   c. You may NOT extract, copy, or repurpose the classification engine,
-      scoring pipeline, configuration data (including but not limited to
-      intent templates, disambiguation rules, scoring parameters, and
-      preprocessing rules), or any component thereof for use in other
-      software or services.
+      attempt to derive the source code, algorithms, internal logic, or
+      embedded data of the Software.
+   c. You may NOT extract, copy, or repurpose the natural-language
+      interpretation engine, any embedded data, or any component thereof
+      for use in other software or services.
    d. You may NOT remove, alter, or obscure any copyright notices,
       license notices, or proprietary markings in the Software.
 
 3. INTELLECTUAL PROPERTY
-   The Launchpad classification engine architecture, including its
-   scoring pipeline, multi-stage evidence discrimination system, and all
-   associated configuration data, are proprietary intellectual property
-   of Nascent Poly. No rights to the underlying algorithms or
+   The Software's natural-language interpretation engine and all
+   associated embedded data are proprietary intellectual property of
+   Nascent Poly. No rights to the underlying algorithms, methods, or
    data are transferred by this license.
 
 4. NO WARRANTY
