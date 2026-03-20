@@ -9,7 +9,7 @@ Press **Ctrl+Shift+.** and type plain English like "run my tests", "commit chang
 
 ## Why Launchpad?
 
-- **123 commands** — covers files, git, testing, debugging, editing, terminals, themes, and more
+- **195 commands** — covers files, git, testing, debugging, editing, terminals, themes, and more
 - **Sub-3ms** — classification is instantaneous, no loading spinners
 - **100% offline** — no API keys, no cloud calls, no telemetry. Everything runs locally in your editor
 - **Zero dependencies** — nothing to install or configure beyond the extension itself
